@@ -1,0 +1,12 @@
+19c01cddb55a55dfe200b95d2bf32fe0 *DESCRIPTION
+e7dc30834e0641ed7c42b1c7da5d9256 *NAMESPACE
+4dfa1c03f42ec545841222b811aaa22c *R/rt-test-Rprogram.R
+08478e4dd520612dc70e561cb5dbae9f *R/zzz.R
+3b2c8ae266240661795e37e3ff9f3808 *data/Quantiles-TA2-04to100-bunzip2.rda
+b0e6ebd10aacc9f559775b96f1a3f3b0 *data/Quantiles-TB2-04to100-bunzip2.rda
+520aa94e6d4d4ef5ee0e822406fb16c1 *inst/CITATION
+bd7647667742bc9d024b06f1acef71d4 *man/HL.estimate.Rd
+08b31925ad70a67f3074ad0cc037abfc *man/Quantiles.TA.Rd
+7fbe64ebee0ec25f0a73769fb5bbb4bf *man/Quantiles.TB.Rd
+2c8fa05677683331cf7f587a688629a7 *man/q.robustified.t.Rd
+f5d4ac67ba8308d0808a7cf2187857f0 *man/rt.test.Rd

@@ -1,0 +1,13 @@
+citHeader("To cite the rt.test package in publications, please use:")
+
+citEntry(entry="Article",
+         author = personList(as.person("M. Wang and C. Park")), 
+         year   = 2019,
+         title  = "Title - later", 
+          journal = "Journal Name - later",
+         volume="24", pages="376--391", 
+         url = "https://sites.google.com/view/appliedstat/manuscript", 
+         textVersion = paste("M. Wang and C. Park (2019)", 
+        "Title (put here)", 
+     "Journal Name", "Vol",  "page1--page2")
+)
